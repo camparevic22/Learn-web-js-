@@ -2,6 +2,7 @@
 
 Jednostavna web aplikacija za pretragu albuma na Spotify-ju.
 
+
 ## Kako pokrenuti
 1. Otvori projekat u VS Code-u.
 2. Koristi **Live Server** ekstenziju da pokreneš `index.html`.
